@@ -12,5 +12,5 @@ Hi! My name is __Aimar Andony__, a freelance __Web Developer__ from Lima, Perú 
 ## My skills
 
 <p align="center">
-  <img align="center" alt="languages & tools" src="https://swiftcloud.ml/cloud-r0RI.png" />
+  <img align="center" alt="languages & tools" src="https://github.com/aimarandony/aimarandony/blob/main/technologies.png" />
 </p>
