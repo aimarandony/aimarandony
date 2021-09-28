@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://andony.netlify.app" target="_blank">Website</a> •
-  <a href="https://twitter.com/aimarandony_" target="_blank">Twitter</a> •
+  <a href="https://dribbble.com/aimarandony" target="_blank">Dribbble</a> •
+  <a href="https://twitter.com/aimarandony" target="_blank">Twitter</a> •
   <a href="https://www.instagram.com/aimarandony" target="_blank">Instagram</a> •
   <a href="https://www.linkedin.com/in/aimar-andony" target="_blank">Linkedin</a>
 </p>
